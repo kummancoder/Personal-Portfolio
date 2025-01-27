@@ -6,7 +6,7 @@ This is a **personal portfolio website** built using **HTML**, **CSS**, and **Ja
 
 - **Home Section**: A welcoming introduction with a catchy tagline and call-to-action.
 - **About Section**: Highlights my skills, background, and interests.
-- **Projects Section**: Showcases my key projects with descriptions and links to demos or repositories.
+- **Work Section and services**: Showcases my key projects with descriptions and links to demos or repositories.
 - **Contact Section**: A contact form for visitors to reach out, along with social media links.
 - **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
 - **Smooth Animations**: Subtle transitions and animations for an engaging user experience.
